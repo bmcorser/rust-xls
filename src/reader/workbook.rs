@@ -1,6 +1,6 @@
 use libc::c_char;
-use libc::types::common::c95::c_void;
-use libc::types::os::arch::c95::c_int;
+use libc::c_void;
+use libc::c_int;
 use std::mem;
 use std::ffi::CString;
 use std::ffi::CStr;

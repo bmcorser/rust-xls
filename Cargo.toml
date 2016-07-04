@@ -1,4 +1,4 @@
 [package]
 name = "xls"
 version = "0.1.0"
-authors = ["Evan Miller <emmiller@gmail.com>"]
+authors = ["Evan Miller <emmiller@gmail.com>", "BM Corser <ben@steady.supply>"]
